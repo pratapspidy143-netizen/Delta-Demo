@@ -9,3 +9,4 @@ dist/
 build/
 env/
 *.egg-info/
+node_modules/
