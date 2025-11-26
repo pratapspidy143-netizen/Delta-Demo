@@ -1,0 +1,21 @@
+{
+  "name": "delta-demo",
+  "version": "0.1.0",
+  "description": "Converted JavaScript version of Delta-Demo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest --runInBand"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.3",
+    "nodemon": "^2.0.22"
+  }
+}
